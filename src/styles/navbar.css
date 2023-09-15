@@ -1,0 +1,13 @@
+.nav {
+    background-color: #160856;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .heading {
+    color: #f4ebeb;
+    font-size: 2rem;
+  }
+  

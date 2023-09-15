@@ -1,0 +1,7 @@
+button.logout-button {
+    flex-shrink: 0;
+    width: 10%;
+    margin-left: 10px;
+    background-color: hsl(0, 0%, 100%);
+    color: #ffffff;
+  }

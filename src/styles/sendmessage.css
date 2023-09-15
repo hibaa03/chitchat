@@ -1,0 +1,27 @@
+.form {
+    display: flex;
+    align-items: center;
+    position: sticky;
+    bottom: 0;
+    padding: 10px;
+    background-color: #000;
+  }
+  
+  .input {
+    flex-grow: 1;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #000000;
+    color: #ffffff;
+    outline: none;
+    border: none;
+  }
+  
+  .button {
+    flex-shrink: 0;
+    width: 10%;
+    margin-left: 10px;
+    background-color: hsl(247, 67%, 37%);
+    color: #ffffff;
+  }
+  
